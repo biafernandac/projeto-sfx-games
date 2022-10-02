@@ -1,0 +1,212 @@
+[
+  {
+    "order": 1,
+    "id": "1",
+    "game": "Maui Mallard in Cold Shadow",
+    "answers": ["maui mallard", "cold shadow"]
+  },
+  {
+    "order": 3,
+    "id": "3",
+    "game": "Apex Legends",
+    "answers": ["apex legends"]
+  },
+  {
+    "order": 2,
+    "id": "2",
+    "game": "Among Us",
+    "answers": ["among us", "amogus"]
+  },
+  {
+    "order": 4,
+    "id": "4",
+    "game": "Five Night's at Freddy's 2",
+    "answers": ["fnaf 2", "five nights at freddy's 2", "five nights at freddys 2"]
+  },
+  {
+    "order": 6,
+    "id": "6",
+    "game": "The Last of Us",
+    "answers": ["the last of us", "tlou"]
+  },
+  {
+    "order": 5,
+    "id": "5",
+    "game": "Brawlhalla",
+    "answers": ["brawlhalla"]
+  },
+  {
+    "order": 7,
+    "id": "7",
+    "game": "Resident Evil 4",
+    "answers": ["re4", "resident evil 4"]
+  },
+  {
+    "order": 9,
+    "id": "9",
+    "game": "Fall Guys",
+    "answers": ["fall guys", "rapazes caindo"]
+  },
+  {
+    "order": 8,
+    "id": "8",
+    "game": "Enter The Gungeon",
+    "answers": ["enter the gungeon"]
+  },
+  {
+    "order": 10,
+    "id": "10",
+    "game": "Call oi Duty: World at War",
+    "answers": ["cod waw", "call of duty world at war"]
+  },
+  {
+    "order": 12,
+    "id": "12",
+    "game": "Fortnite Battle Royale",
+    "answers": ["Fortnite"]
+  },
+  {
+    "order": 11,
+    "id": "11",
+    "game": "Five Nights at Freddy's 3",
+    "answers": ["fnaf 3","five nights at freddy's 3","five nights at freddys 3"]
+  },
+  {
+    "order": 13,
+    "id": "13",
+    "game": "Grand Theft Auto 5",
+    "answers": ["gta 5","grand theft auto v","gta v","grand theft auto 5"]
+  },
+  {
+    "order": 15,
+    "id": "15",
+    "game": "half-life 2",
+    "answers": ["halflife 2","half-life 2","hf2"]
+  },
+  {
+    "order": 14,
+    "id": "14",
+    "game": "Bioshock 1",
+    "answers": ["bioshock","bioshock 1"]
+  },
+  {
+    "order": 16,
+    "id": "16",
+    "game": "Shadow Warrior Classic",
+    "answers": ["shadow warrior","shadow warrior classic"]
+  },
+  {
+    "order": 18,
+    "id": "18",
+    "game": "Super Mario 64",
+    "answers": ["super mario 64","mario 64"]
+  },
+  {
+    "order": 17,
+    "id": "17",
+    "game": "League of Legends",
+    "answers": ["lol","league of legends"]
+  },
+  {
+    "order": 19,
+    "id": "19",
+    "game": "Metal Gear Solid",
+    "answers": ["metal gear","metal gear solid"]
+  },
+  {
+    "order": 21,
+    "id": "21",
+    "game": "Final Fantasy XV",
+    "answers": ["ffxv","final fantasy xv","final fantasy 15","ff15"]
+  },
+  {
+    "order": 20,
+    "id": "20",
+    "game": "Nun Massacre",
+    "answers": ["nun massacre"]
+  },
+  {
+    "order": 22,
+    "id": "22",
+    "game": "Roblox",
+    "answers": ["roblox"]
+  },
+  {
+    "order": 24,
+    "id": "24",
+    "game": "Super Mario World",
+    "answers": ["super mario world"]
+  },
+  {
+    "order": 23,
+    "id": "23",
+    "game": "Subnautica",
+    "answers": ["subnautica"]
+  },
+  {
+    "order": 25,
+    "id": "25",
+    "game": "Persona 5",
+    "answers": ["persona 5"]
+  },
+  {
+    "order": 27,
+    "id": "27",
+    "game": "Super Smash Bros Ultimate",
+    "answers": ["super smash bros","smash bros ultimate"]
+  },
+  {
+    "order": 26,
+    "id": "26",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "answers": ["zelda majoras mask","the legend of zelda majoras mask","the legend of zelda majora mask","majora mask","zelda majora mask"]
+  },
+  {
+    "order": 28,
+    "id": "28",
+    "game": "Sonic The Hedgehog",
+    "answers": ["sonic"]
+  },
+  {
+    "order": 30,
+    "id": "30",
+    "game": "Stray",
+    "answers": ["stray"]
+  },
+  {
+    "order": 29,
+    "id": "29",
+    "game": "Left 4 Dead 2",
+    "answers": ["left 4 dead 2","l4d2"]
+  },
+  {
+    "order": 31,
+    "id": "31",
+    "game": "Terraria",
+    "answers": ["terraria"]
+  },
+  {
+    "order": 33,
+    "id": "33",
+    "game": "Undertale",
+    "answers": ["undertale"]
+  },
+  {
+    "order": 32,
+    "id": "32",
+    "game": "Paladins",
+    "answers": ["Paladins"]
+  },
+  {
+    "order": 34,
+    "id": "34",
+    "game": "Valorant",
+    "answers": ["valorant"]
+  },
+  {
+    "order": 35,
+    "id": "35",
+    "game": "Minecraft",
+    "answers": ["minecraft"]
+  }
+]
